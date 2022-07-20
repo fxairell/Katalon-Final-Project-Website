@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout Single</description>
+   <name>ISH_006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4407e7c-e53b-4ba9-b1ef-7817c267a483</testCaseGuid>
+</TestCaseEntity>

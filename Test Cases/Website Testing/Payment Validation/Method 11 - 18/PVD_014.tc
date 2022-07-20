@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout Album with LinkAja</description>
+   <name>PVD_014</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf19acc6-e9ed-4350-a48b-507ff819e271</testCaseGuid>
+</TestCaseEntity>

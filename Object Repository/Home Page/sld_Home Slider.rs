@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sld_Home Slider</name>
+   <tag></tag>
+   <elementGuidId>c62066e3-3fbb-485c-a569-fc77a6c149bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-slide.left-align.swiper-slide-prev.swiper-slide-duplicate-next</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='swiper-wrapper-f69bd8b59d8c4e98']/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>db14f0fa-4c1d-462c-92fb-174a300dbbac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swiper-slide left-align swiper-slide-prev swiper-slide-duplicate-next</value>
+      <webElementGuid>fa19210d-f702-41d4-9884-fc034e13ef77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-swiper-slide-index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>d5a6e8ce-923b-44d1-ae6f-ea23237ccde0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>group</value>
+      <webElementGuid>c6ab763a-9150-4d41-9afa-ad797c18141f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>4 / 5</value>
+      <webElementGuid>fd26d2fa-6ed1-43df-9615-1603658093a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swiper-wrapper-f69bd8b59d8c4e98&quot;)/div[@class=&quot;swiper-slide left-align swiper-slide-prev swiper-slide-duplicate-next&quot;]</value>
+      <webElementGuid>a88058f4-3637-49ff-919a-d6fdbaaf7b9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='swiper-wrapper-f69bd8b59d8c4e98']/div[4]</value>
+      <webElementGuid>118eb7b2-5afa-4031-9497-ea181b32f597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OUR STORY'])[1]/following::div[1]</value>
+      <webElementGuid>2a777a89-a51b-4b68-86b2-6d95f6989071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP NOW'])[1]/following::div[4]</value>
+      <webElementGuid>904e87eb-cd6e-46ae-962f-b3b2a0e23886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP NOW'])[2]/preceding::div[3]</value>
+      <webElementGuid>f780cb32-3773-4ae6-93a3-3d4e423041ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Products'])[1]/preceding::div[8]</value>
+      <webElementGuid>6d84e7da-54f7-424b-b519-b40ef710a351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[4]</value>
+      <webElementGuid>1137f26f-3220-4ccd-bd87-5e6b31b23c62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

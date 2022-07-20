@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout Album without Phone Number</description>
+   <name>ISH_021</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bf769c5-f043-4143-810c-efae7d3909e3</testCaseGuid>
+</TestCaseEntity>

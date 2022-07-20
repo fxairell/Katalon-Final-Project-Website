@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout Album with invalid Email</description>
+   <name>ISH_020</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>54f87fc9-b29e-475d-a828-2301b312b06e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout Album with BRI</description>
+   <name>PVD_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41d8912f-3438-47c3-878a-92c16e3e1c0a</testCaseGuid>
+</TestCaseEntity>

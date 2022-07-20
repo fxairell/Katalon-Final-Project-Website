@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout Album without City</description>
+   <name>ISH_023</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce627ac1-bfaf-43bb-9ccf-cd93ac973df2</testCaseGuid>
+</TestCaseEntity>

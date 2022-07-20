@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pgr_5</name>
+   <tag></tag>
+   <elementGuidId>8ba6f143-2dca-413d-a496-a5b8970474f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-247']/div/p[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fbd707d1-f009-4757-98b6-18c5bdbc24c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>has-medium-font-size</value>
+      <webElementGuid>fda74883-7d87-4670-a890-d532ee7449d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Indonesia is an archipelago and each region in Indonesia has its own famous culinary delight. We proudly present you with various options of recipes from all over IndonesiaIn your box you will find all the necessary Indonesian spices you need to recreate your favourite Indonesian dish and serve them to your loved ones</value>
+      <webElementGuid>6bcf26ae-4496-40df-938e-d94547a08d04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-247&quot;)/div[@class=&quot;entry-content&quot;]/p[@class=&quot;has-medium-font-size&quot;]</value>
+      <webElementGuid>dfedf0ac-102d-43c8-a51e-325dc81b3ca6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-247']/div/p[5]</value>
+      <webElementGuid>7d6e6c0f-2e8a-4058-9102-d5d51d4226a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chef'])[1]/following::p[3]</value>
+      <webElementGuid>9160ce7c-4a75-473e-b0e9-e8963dd69699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='box'])[1]/following::p[3]</value>
+      <webElementGuid>44156ded-541e-4a02-8ad7-6dd260d8f41e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter'])[1]/preceding::p[2]</value>
+      <webElementGuid>d4a05a6d-dac9-4ac6-b36c-f46166f3b2c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Indonesia is an archipelago and each region in Indonesia has its own famous culinary delight. We proudly present you with various options of recipes from all over IndonesiaIn your box you will find all the necessary Indonesian spices you need to recreate your favourite Indonesian dish and serve them to your loved ones']/parent::*</value>
+      <webElementGuid>e44a014e-51cb-4e1f-b6a5-2247e1a444cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]</value>
+      <webElementGuid>b596edfe-d1c4-4a63-8655-ed55d88fcee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Indonesia is an archipelago and each region in Indonesia has its own famous culinary delight. We proudly present you with various options of recipes from all over IndonesiaIn your box you will find all the necessary Indonesian spices you need to recreate your favourite Indonesian dish and serve them to your loved ones' or . = 'Indonesia is an archipelago and each region in Indonesia has its own famous culinary delight. We proudly present you with various options of recipes from all over IndonesiaIn your box you will find all the necessary Indonesian spices you need to recreate your favourite Indonesian dish and serve them to your loved ones')]</value>
+      <webElementGuid>1f74deb5-b773-4d0d-8153-1d2470d056d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

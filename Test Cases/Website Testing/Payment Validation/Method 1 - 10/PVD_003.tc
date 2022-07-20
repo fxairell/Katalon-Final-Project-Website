@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout Album with BNI</description>
+   <name>PVD_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d56b3499-ad49-492b-996b-17b373f68d95</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register an account with invalid Password composition</description>
+   <name>RGS_008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff8ccfa1-ee1d-4e46-bb49-a7731e72a452</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logout using logout link</description>
+   <name>LGT_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cee1523c-b43e-4cf9-b861-186ec918f85e</testCaseGuid>
+</TestCaseEntity>

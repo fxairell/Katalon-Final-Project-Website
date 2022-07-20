@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register an account without Password</description>
+   <name>RGS_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7adf047-fb78-4170-93d7-d6b959c62d5d</testCaseGuid>
+</TestCaseEntity>

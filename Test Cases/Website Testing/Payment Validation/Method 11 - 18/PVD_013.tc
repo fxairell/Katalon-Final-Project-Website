@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout Album with Kredivo</description>
+   <name>PVD_013</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef496b82-6fac-4063-a693-ef0789d11755</testCaseGuid>
+</TestCaseEntity>

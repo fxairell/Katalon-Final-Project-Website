@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout Album with ShopeePay</description>
+   <name>PVD_017</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c145a946-bc07-4ae3-9311-3cb8e99e2f2e</testCaseGuid>
+</TestCaseEntity>

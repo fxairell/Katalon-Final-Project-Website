@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login account successfully</description>
+   <name>LGN_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff2d8d4e-1aa0-4251-9508-728333e865d9</testCaseGuid>
+</TestCaseEntity>

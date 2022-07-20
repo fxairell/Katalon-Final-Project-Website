@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register an account with invalid Password length</description>
+   <name>RGS_009</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c48aa607-2c1a-478f-b4b1-d1527080c470</testCaseGuid>
+</TestCaseEntity>

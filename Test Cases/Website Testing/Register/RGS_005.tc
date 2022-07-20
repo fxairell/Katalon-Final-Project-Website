@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register an account without Address</description>
+   <name>RGS_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>617c174a-1a67-4eba-82d0-777026b60734</testCaseGuid>
+</TestCaseEntity>

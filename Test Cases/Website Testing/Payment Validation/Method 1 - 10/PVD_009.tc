@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout Album with Indomaret</description>
+   <name>PVD_009</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b19b0725-4676-459e-a323-9c5c02216a10</testCaseGuid>
+</TestCaseEntity>

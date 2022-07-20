@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login account without Username</description>
+   <name>LGN_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f5f4b47-b331-49cf-89d3-24d7bf1b5d70</testCaseGuid>
+</TestCaseEntity>
